@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-http-server-example",
+  "version": "1.0.0",
+  "description": "A simple HTTP server in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanoj2/nodejs-http-server-example.git"
+  },
+  "author": "Justin Albano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albanoj2/nodejs-http-server-example/issues"
+  },
+  "homepage": "https://github.com/albanoj2/nodejs-http-server-example#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
